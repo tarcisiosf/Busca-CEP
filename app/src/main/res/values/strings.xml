@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BuscaCEP</string>
+    <string name="instrução">Digite um CEP (8 dígitos) e toque em Buscar</string>
+    <string name="hint_cep">Ex.: 01001000</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="titulo_resultado">Resultado da Busca</string>
+    <string name="label_logradouro">Logradouro:</string>
+    <string name="label_bairro">Bairro:</string>
+    <string name="label_cidade">Cidade:</string>
+    <string name="label_estado">Estado:</string>
+    <string name="btn_salvar_historico">Salvar no Histórico</string>
+    <string name="btn_ver_historico">Ver Histórico</string>
+    <string name="titulo_historico">Histórico de CEPs</string>
+    <string name="erro_api">Não foi possível acessar a API. Verifique sua conexão.</string>
+    <string name="erro_processar">Erro ao processar dados retornados.</string>
+    <string name="erro_cep_nao_encontrado">O CEP informado não foi encontrado.</string>
+    <string name="erro_cep_invalido">O CEP deve ter 8 dígitos</string>
+    <string name="informe_cep">Informe o CEP</string>
+    <string name="nenhum_historico">Nenhum registro no histórico.</string>
+    <string name="busca_salva">Busca salva no histórico.</string>
+    <string name="erro_salvar_historico">Falha ao salvar no histórico.</string>
+</resources>
